@@ -40,10 +40,3 @@ I'm a student, always seeking new adventures and constantly looking for opportun
 ## 👯 Let's Collaborate
 
 If you're a student interested in Data Engineering, feel free to reach out! There's always room for collaborative learning and mutual growth. Who knows, we might create something spectacular one day!
-
----
-
-"Data is the new science. Big Data holds the answers." - Patrick Gelsinger
-
----
-
