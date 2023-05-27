@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=apache-cassandra)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
@@ -35,7 +36,11 @@ I'm engrossed in container-based development, and am proficient in Docker and Ku
 
 ## 🌱 Always Learning 
 
-I'm a student, always seeking new adventures and constantly looking for opportunities to learn and grow. The world of Data Engineering is vast and I am committed to understanding its breadth and depth. There's always something new to explore, and I'm excited about that journey.
+As a student, embarking on the journey of Data Engineering is not a simple task. It's a field that presents its own set of unique challenges, especially when it comes to processing extremely large datasets. Yet, it's precisely these challenges that make it a rewarding endeavor.
+
+I believe the true essence and worth of Data Engineering come to the fore when we're not just implementing systems but utilizing them to manage and derive insights from vast volumes of data. This is the goal I strive towards in my learning journey.
+
+Navigating the expansive world of Data Engineering is a continuous process of learning and growth, and I am fully committed to exploring its depths and climbing its heights. Each day brings a new learning opportunity, and I eagerly look forward to it.
 
 ## 👯 Let's Collaborate
 
