@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 
 I'm a passionate individual deeply interested in the field of Data Engineering. I'm always seeking to leverage my skills and love for technology to build robust data pipelines and infrastructure, enhancing decision-making capabilities.
 
-## 🔭 Current Interests 
-
-I'm engrossed in container-based development, and am proficient in Docker and Kubernetes. They form a key part of my toolset when it comes to creating scalable and reproducible environments. The ability to isolate applications into their own environments with their own resources is a technology paradigm that excites me.
-
 ## 🌱 Always Learning 
 
 As a student, embarking on the journey of Data Engineering is not a simple task. It's a field that presents its own set of unique challenges, especially when it comes to processing extremely large datasets. Yet, it's precisely these challenges that make it a rewarding endeavor.
