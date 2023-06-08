@@ -35,7 +35,3 @@ As a student, embarking on the journey of Data Engineering is not a simple task.
 I believe the true essence and worth of Data Engineering come to the fore when we're not just implementing systems but utilizing them to manage and derive insights from vast volumes of data. This is the goal I strive towards in my learning journey.
 
 Navigating the expansive world of Data Engineering is a continuous process of learning and growth, and I am fully committed to exploring its depths and climbing its heights. Each day brings a new learning opportunity, and I eagerly look forward to it.
-
-## 👯 Let's Collaborate
-
-If you're a student interested in Data Engineering, feel free to reach out! There's always room for collaborative learning and mutual growth. Who knows, we might create something spectacular one day!
